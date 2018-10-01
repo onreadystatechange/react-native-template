@@ -1,0 +1,12 @@
+{
+  "name": "CorpFortune",
+  "displayName": "企慧宝",
+  "ios": {
+    "bundleIdentifier": "com.corpfortune.qihuibao.mobile",
+    "buildNumber": "1.0.0"
+  },
+  "android": {
+    "package": "com.corpfortune.qihuibao.mobile",
+    "versionCode": "1.0.0"
+  }
+}
